@@ -12,7 +12,7 @@ This repository contains the materials for the Vinegar Hill project, EduKomics, 
 
 # Contributing to this Repository
 
-Updates to the repository are restricted to approved individuals only, to prevent unnecessary and undocumented modification to project details. However, because this is a project created to be modified in a fashion conducive to our open source license, in the future, steps for how to contribute to this project while maintaining its integrity will be provided. Currently, this remains a private project until initial format has been solidified.
+Updates to the repository are restricted to approved individuals only, to prevent unnecessary and undocumented modification to project details. However, because this is a project created to be modified in a fashion conducive to our open source license, in the future, steps for how to contribute to this project while maintaining its integrity will be provided. Currently, this remains a private project until the first version is released.
 
 # Project Description
 
