@@ -19,14 +19,14 @@ Updates to the repository are restricted to approved individuals only, to preven
 This project is one of a series of projects intended to contribute to the Vinegar Hill project, a renewal effort dedicated to improving the quality of life of the residents of the Vinegar Hill community in Charlottesville, where a thriving neighborhood was demolished in 1965 in an attempt at urban renewal and is still a disadvantaged community deprived of many goods and services provided to the rest of Charlottesville. Our goal as a branch of the Education sector is to provide equity in the classroom through quality of learning, promoting a cheap, easy way to simultaneously provide enjoyment and education in the classroom.
 
 The EduKomics project objectives are as follows:
-+ Create and update a Google Drive containing sprites/characters, speech bubbles, individual comic panels, and comic single-page templates
++ Create and update a [Google Drive](https://drive.google.com/) containing sprites/characters, speech bubbles, individual comic panels, and comic single-page templates
 + Create and maintain a [Wordpress](https://wordpress.com/) website containing the following:
   + [Blog](https://edukomics.wordpress.com/) page -- the first viewed page containing both submissions and developer examples. Can access by clicking title
-  + [Home](https://edukomics.wordpress.com/home/) page with an introduction to teacher directives and a link to the aforementioned Google Drive
+  + [Home](https://edukomics.wordpress.com/home/) page with an introduction to teacher directives and a link to the aforementioned [Google Drive](https://drive.google.com/).
   + [About Us](https://edukomics.wordpress.com/about-us/) page containing purpose of this project as well as research to why this purpose is viable for this project
   + [Contact Us](https://edukomics.wordpress.com/contact/) page (NOT for submissions), for client feedback and/or suggestions
   + [Submissions](https://edukomics.wordpress.com/tag/submissions/) page for posting submissions sent by student clients
-+ Receive, review, and upload submissions sent to the email address (currently [yk8mp@virginia.edu](mailto:yk8mp@virginia.edu)).
++ Receive, review, and upload submissions sent to the email address (temporarily [yk8mp@virginia.edu](mailto:yk8mp@virginia.edu)).
 
 # License
 
