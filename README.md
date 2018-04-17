@@ -26,6 +26,7 @@ The EduKomics project objectives are as follows:
   + [About Us](https://edukomics.wordpress.com/about-us/) page containing purpose of this project as well as research to why this purpose is viable for this project
   + [Contact Us](https://edukomics.wordpress.com/contact/) page (NOT for submissions), for client feedback and/or suggestions
   + [Submissions](https://edukomics.wordpress.com/tag/submissions/) page for posting submissions sent by student clients
++ Receive, review, and upload submissions sent to the email address (currently [yk8mp@virginia.edu](mailto:yk8mp@virginia.edu)).
 
 # License
 
