@@ -4,7 +4,7 @@
 
 # Introduction
 
-This repository contains the materials for the Vinegar Hill project, EduKomics, in the People and Public Policy course, Open Source for the Common Good, at the [University of Virginia](www.virginia.edu). It contains all of the sprites, comic-style panels, and possible implementations (lesson plans) that will be put on the public [Google Drive](https://drive.google.com/) for client access, as well as developer examples and student submissions for the [Wordpress site](https://www.edukomics.wordpress.com/).
+This repository contains the materials for the Vinegar Hill project contribution effort, EduKomics, in the People and Public Policy course, Open Source for the Common Good, at the [University of Virginia](www.virginia.edu). It contains all of the sprites, comic-style panels, and possible implementations (lesson plans) that will be put on the public [Google Drive](https://drive.google.com/) for client access, as well as developer examples and student submissions for the [Wordpress site](https://www.edukomics.wordpress.com/).
 
 # Repository Contents
 
