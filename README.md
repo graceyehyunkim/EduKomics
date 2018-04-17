@@ -38,9 +38,9 @@ Vinegar Hill continued to thrive until Charlottesville's urban renewal project i
 
 The shadow of Vinegar Hill rests just west of what is now the Charlottesville Downtown Mall.
 
-[History of Vinegar Hill](http://www2.iath.virginia.edu/schwartz/vhill/vhill.history.html)
-[Vinegar Hill - Cvillepedia](http://www.cvillepedia.org/mediawiki/index.php/Vinegar_Hill#Local_Voices.2C_Local_History)
-[Vinegar Hill | African American Historic Sites Database](http://www.aahistoricsitesva.org/items/show/457)
++ [History of Vinegar Hill](http://www2.iath.virginia.edu/schwartz/vhill/vhill.history.html)
++ [Vinegar Hill - Cvillepedia](http://www.cvillepedia.org/mediawiki/index.php/Vinegar_Hill#Local_Voices.2C_Local_History)
++ [Vinegar Hill | African American Historic Sites Database](http://www.aahistoricsitesva.org/items/show/457)
 
 # License
 
