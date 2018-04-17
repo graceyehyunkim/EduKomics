@@ -16,7 +16,7 @@ Updates to the repository are restricted to approved individuals only, to preven
 
 # Project Description
 
-This project is one of a series of projects intended to contribute to the [New Vinegar Hill project](https://www.commerce.virginia.edu/news/mcintire-professor-bevin6366), a renewal effort dedicated to improving the quality of life of the residents of underprivileged communities, including but not limited to the Vinegar Hill community in Charlottesville, where a thriving neighborhood was demolished in 1964 in an attempt at urban renewal and is still a disadvantaged community deprived of many goods and services provided to the rest of Charlottesville.
+This project is one of a series of projects intended to contribute to the [New Vinegar Hill project](https://www.commerce.virginia.edu/news/mcintire-professor-bevin6366), a renewal effort dedicated to improving the quality of life of the residents of underprivileged communities, including but not limited to the more disadvantaged communities of Charlottesville reminiscient of the first Vinegar Hill.
 
 Our goal as a branch of the Education sector is to provide equity in the classroom through quality of learning by promoting a cheap, easy way to simultaneously provide enjoyment and education in the classroom through in-classroom use of creating and/or reading short, educational comic books. Students can use resources provided in the [Google Drive](https://drive.google.com/) to make their own educational comics in class, which will promote accelerated and enjoyable learning through creativity and peer education.
 
