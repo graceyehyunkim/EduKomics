@@ -21,8 +21,12 @@ This project is one of a series of projects intended to contribute to the Vinega
 The EduKomics project objectives are as follows:
 + Create and update a Google Drive containing sprites/characters, speech bubbles, individual comic panels, and comic single-page templates
 + Create and maintain a [Wordpress](https://wordpress.com/) website containing the following:
+  + [Blog](https://edukomics.wordpress.com/) page -- the first viewed page containing both submissions and developer examples. Can access by clicking title
   + [Home](https://edukomics.wordpress.com/home/) page with an introduction to teacher directives and a link to the aforementioned Google Drive
   + [About Us](https://edukomics.wordpress.com/about-us/) page containing purpose of this project as well as research to why this purpose is viable for this project
   + [Contact Us](https://edukomics.wordpress.com/contact/) page (NOT for submissions), for client feedback and/or suggestions
-  + [Submissions](https://edukomics.wordpress.com/tag/submissions/) page for posting submissions sent by students
-  + [Blog](https://edukomics.wordpress.com/) page -- the actual home page containing both submissions and developer examples
+  + [Submissions](https://edukomics.wordpress.com/tag/submissions/) page for posting submissions sent by student clients
+
+# License
+
+The material in this repository is planned to be released under a [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), a free, copyleft license.
