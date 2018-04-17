@@ -8,7 +8,7 @@ This repository contains the materials for the Vinegar Hill project contribution
 
 # Repository Contents
 
-**Note that this is still a work in progress. No considerations for modifications will be accepted until initial project has been completed.**
+**Note that this is still a work in progress. No considerations for modifications will be accepted until the first version is released.**
 
 # Contributing to this Repository
 
